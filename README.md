@@ -19,7 +19,8 @@ The objective of the Mobile Sales Analysis Dashboard is to analyze sales perform
 - What is the **day-wise sales performance trend**?
 
  
-  - Dashboard Interaction <a href="https://github.com/himanshugeek12/Mobile-Sales-Analysis/blob/master/Mobile-Sales-Analysis.png">View Dashboard</a>
+  
+-Dashboard Interaction <a href="https://github.com/himanshugeek12/Mobile-Sales-Analysis/blob/master/Mobile-Sales-Analysis.png">View Dashboard</a>
 
 ## 🔄 Process
 - Collected and validated raw data using SQL queries.
