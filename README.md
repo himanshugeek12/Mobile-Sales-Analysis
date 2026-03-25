@@ -4,7 +4,7 @@
 The objective of the Mobile Sales Analysis Dashboard is to analyze sales performance, transaction trends, customer behavior, and product demand across different cities, brands, and payment methods. This dashboard helps businesses understand key revenue drivers and optimize sales strategies.
 
 ## Dataset used 
-- <a href="#">Dataset</a>
+- <a href="https://github.com/himanshugeek12/Mobile-Sales-Analysis/blob/master/Mobile-Sales-Analysis.pbix">Dataset</a>
 
 ## ❓ Key Questions (KPIs)
 - What is the **total sales revenue generated**?
